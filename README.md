@@ -1,2 +1,2 @@
-# ola
-primeiro respositorio
+## TRILHAS DE APROFUNDAMENTO DO NADIC
+Este repositório foi criado com o objetivo de reunir e organizar todos os conhecimentos adquiridos ao longo das trilhas de aprofundamento do NADIC. 
